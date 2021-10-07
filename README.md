@@ -33,6 +33,15 @@
 <br />
 <br />
 
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 <details>
   <summary>⚡ GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fschatbot&show_icons=true&theme=radical&count_private=true" />
