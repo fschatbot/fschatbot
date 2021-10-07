@@ -33,7 +33,8 @@
 <br />
 <br />
 
-## Github Stats
+## Github Stats:
+
 ![fschatbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=fschatbot&show_icons=true&theme=radical&count_private=true "fschatbot's stats")
 
 
