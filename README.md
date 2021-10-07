@@ -33,6 +33,11 @@
 <br />
 <br />
 
+## Github Stats
+![fschatbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=fschatbot&show_icons=true&theme=radical&count_private=true "fschatbot's stats")
+
+
+
 [website]: http://fschatbot.github.io/
 [twitter]: https://twitter.com/Alpha_Wolf_80
 [youtube]: https://www.youtube.com/channel/UCUJ_kiohlnpPYaCHjHWrPeQ
