@@ -34,7 +34,7 @@
 <br />
 
 [website]: http://fschatbot.github.io/
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Alpha_Wolf_80
 [youtube]: https://www.youtube.com/channel/UCUJ_kiohlnpPYaCHjHWrPeQ
 [discord]: https://discord.com/users/493775082389241859
 [linkedin]: https://linkedin.com/in/codeSTACKr
