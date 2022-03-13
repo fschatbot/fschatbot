@@ -41,7 +41,7 @@
 
 <details>
   <summary>⚡ Top Languages Used</summary>
-  <img align="left" alt="fschatbot's favorite lanuages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fschatbot&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" />
+  <img align="left" alt="fschatbot's favorite lanuages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fschatbot&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&border_color=2e4058" />
 </details>
 
 [website]: http://fschatbot.github.io/
