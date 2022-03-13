@@ -35,10 +35,14 @@
 
 <details>
   <summary>⚡ GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fschatbot&show_icons=true&theme=radical&count_private=true" />
+  <img align="left" alt="fschatbot's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fschatbot&show_icons=true&theme=radical&count_private=true" />
 
 </details>
 
+<details>
+  <summary>⚡ Top Languages Used</summary>
+  <img align="left" alt="fschatbot's favorite lanuages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fschatbot&langs_count=8" />
+</details>
 
 [website]: http://fschatbot.github.io/
 [twitter]: https://twitter.com/Alpha_Wolf_80
