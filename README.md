@@ -1,4 +1,11 @@
-## Hi there, I'm Himanshu - aka [Alpha Wolf][website]
+<h2 align="center">👋 Hi there, I'm Himanshu </h2>
+
+<p align="center">
+	<a href="http://fschatbot.github.io/">Website</a> •
+	<a href="https://github.com/fschatbot">Github</a>
+</p>
+
+---
 
 ### I'm currently a Student, Developer, and Learner!
 - 🌱 I'm currently learning everything 
