@@ -1,6 +1,4 @@
-## 👋 Hi there, I'm Himanshu </h3>
-
----
+## 👋 Hi there, I'm Himanshu
 
 ### I'm currently a Student, Developer, and Learner!
 - 🌱 I'm currently learning everything 
