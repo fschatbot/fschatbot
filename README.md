@@ -1,9 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Himanshu </h3>
-
-<p align="center">
-	<a href="http://fschatbot.github.io/">Website</a> •
-	<a href="https://github.com/fschatbot">Github</a>
-</p>
+### 👋 Hi there, I'm Himanshu </h3>
 
 ---
 
