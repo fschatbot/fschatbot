@@ -30,8 +30,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-<br />
-<br />
+--
+## 🏆 Github Profile Trophy
+[trophy](https://github-trophies.vercel.app/?username=fschatbot&theme=onedark&no-frame=true)
 
 <details>
   <summary>⚡ GitHub Stats</summary>
