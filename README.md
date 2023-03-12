@@ -32,7 +32,7 @@
 
 --
 ## 🏆 Github Profile Trophy
-[trophy](https://github-trophies.vercel.app/?username=fschatbot&theme=onedark&no-frame=true)
+![trophy](https://github-trophies.vercel.app/?username=fschatbot&theme=onedark&no-frame=true)
 
 <details>
   <summary>⚡ GitHub Stats</summary>
